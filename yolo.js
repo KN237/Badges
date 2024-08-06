@@ -1,1 +1,1 @@
-console.log('for yolo')
+console.log('for pair')
